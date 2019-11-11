@@ -1,0 +1,40 @@
+.heading1 {
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans';
+    text-decoration: underline;
+    /* background: rgba(255, 255, 255, 0.85); */
+}
+.heading1 span {
+    background: rgba(255, 255, 255, 0.55)
+}
+
+.body {
+    background-image: url("./maths.png");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+}
+
+.value {
+    font-size: 25px;
+    opacity: 1;
+    /* background: rgba(255, 255, 255, 0.45); */
+}
+
+.value span {
+    background: rgba(255, 255, 255, 0.55)
+}
+
+.result{
+    font-size: 10px;
+}
+
+.desc_back span {
+    background: rgba(255, 255, 255, 0.55);
+}
+
+#description {
+    opacity: 1;
+}
